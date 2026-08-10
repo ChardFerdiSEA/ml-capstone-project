@@ -8,7 +8,6 @@ The project focuses on predicting bank account fraud risk using supervised machi
 * `notebooks/` : Jupyter notebooks for analysis and modeling
 * `data/` : Datasets and data references
 * `models/` : Saved model artifacts
-* `src/` : Supporting scripts (if applicable)
 * `reports/` : Final report and presentation decks
 
 ## Reproducibility
