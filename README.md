@@ -5,6 +5,7 @@ The project focuses on predicting bank account fraud risk using supervised machi
 
 ## Repository Structure
 
+* `additional/` : application and application tutorial
 * `notebooks/` : Jupyter notebooks for analysis and modeling
 * `data/` : Datasets and data references
 * `models/` : Saved model artifacts
